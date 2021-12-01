@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.flex-around {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
