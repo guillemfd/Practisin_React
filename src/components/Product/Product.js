@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./Product.css";
+import "../Product/Product.css";
 
 const Product = (props) => {
   const { name, price, currency, state } = props.product;
